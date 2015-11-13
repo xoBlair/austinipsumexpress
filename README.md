@@ -12,22 +12,22 @@ If you need some filler text or just wanna get weird, Austin Ipsum is the app fo
 #In v2.0, users will be able to create an account and submit sentences!
 
 #Technologies Used:
-Javascript
-HTML
-CSS
-jQuery
-Express
-Mongo.DB (nothing posting to it yet)
-Node.js
-Bitballoon.com (before I launched it with Express and Node.js)
-Almost got it deployed on Heroku…but failed
-Trello
-Git and GitHub
-Font Awesome (icons)
-Google fonts
-Wunderground widgets
-Twitter widgets
-Time and Date counter widget
+Javascript, 
+HTML, 
+CSS, 
+jQuery, 
+Express, 
+Mongo.DB (nothing posting to it yet), 
+Node.js, 
+Bitballoon.com (before I launched it with Express and Node.js), 
+Almost got it deployed on Heroku…but failed, 
+Trello, 
+Git and GitHub, 
+Font Awesome (icons), 
+Google fonts, 
+Wunderground widgets, 
+Twitter widgets, 
+Time and Date counter widget, 
 SimpleHitCounter widgets
 
 http://localhost:3000/
