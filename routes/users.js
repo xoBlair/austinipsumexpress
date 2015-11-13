@@ -13,9 +13,8 @@ router.get('/new', function(req, res, next) {
     res.render('users/new');
 // Create a new user 
     var buddy = new User({
-  name: 'Buddy',
-  email: 'buddy@thenorthpole.com',
-  favorite: 'Smiling'
+  name: 'Peaches',
+  favorite: 'being a cutie'
 });
 
 buddy.sayHello();
@@ -24,12 +23,10 @@ buddy.sayHello();
 
 router.post('/', function(req, res, next) {
     var name = req.body.name;
-    var email = req.body.email;
     var favorite = req.body.favorite;     
 
     var newUser = User({
         name: name,
-        email: email,
         favorite: favorite,
     });
 
