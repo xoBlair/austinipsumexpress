@@ -1,0 +1,156 @@
+
+#main {
+    margin: 30px;
+}
+
+footer {
+    font-size: 80%;
+    color: gray;
+}
+
+
+
+
+#page-wrap {
+     width: 1000px;
+     margin: 0 auto;
+}
+
+#top {
+	font-weight: 500px;
+	width: 1000px;
+	height: 75px;
+	background: #3dc60d;
+    text-align: center;
+    font-family: 'Quicksand', sans-serif;
+    display: block;
+}
+
+
+#titleBox {
+	font-size: 28px;
+	font-weight: 500px;
+	background: #90d129;
+	height: 145px;
+	color: black;
+	text-align: center;
+	font-family: 'Quicksand', sans-serif;
+}
+
+/*320x150*/
+#logo {
+	padding-bottom: 15px;
+	position: center;
+}
+
+
+
+/*middle*/
+
+#selections {
+	background-color: #bbf10e;
+    background: #bbf10e;
+    font-weight: 400;
+	font-size: large;
+	font-family: 'Quicksand', sans-serif;
+	color: black;
+	width: 1000px;
+	height: 175px;
+	text-align: center;
+
+}
+
+
+/*buttons*/
+#food {
+	border-radius: 4px 4px 4px 4px;
+	background-color: white;
+}
+
+#fun {
+	border-radius: 4px 4px 4px 4px;
+	background-color: white;
+}
+
+#go {
+	border-radius: 4px 4px 4px 4px;
+	background-color: white;
+}
+
+#clear {
+	border-radius: 4px 4px 4px 4px;
+    background-color: white;
+}
+
+/*text box*/
+
+#textBox {
+	width: 1000px;
+	height: 200px;
+	background: #d7de1e;
+	margin: 0 auto;
+	overflow: auto;
+}
+
+#paragraph {
+	font-size: 18px;
+	font-family: 'Hind Siliguri', sans-serif;
+	color: black;
+	text-align: center;
+}
+
+
+/*widgets*/
+
+#widgets {
+	width: 1000px;
+	height: 300px;
+	background: #fac309;
+}
+
+#weather {
+	float: left;
+	margin-right: 15px;
+	padding-top: 30px;
+}
+
+.twitter-timeline {
+	float: center;
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+
+
+/*bottom*/
+
+#lastRow {
+	background: #fdb06c;
+	width: 1000px;
+	height: 75px;
+}
+
+
+/*footer*/
+
+#counter {
+	float: right;
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+
+#love {
+	text-align: center;
+	font-family: 'Quicksand', sans-serif;
+	font-size: 12px;
+    text-decoration: none; 
+    color: black;
+}
+
+.fa-heart {
+	color: red;
+}
+
+#hits {
+	font-family: 'Hind Siliguri', sans-serif;
+	font-size: 12px;
+}
