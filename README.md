@@ -9,7 +9,7 @@ If you need some filler text or just wanna get weird, Austin Ipsum is the app fo
 3. press go to get the filler text!
 4. press erase to do it all over again
 
-#In v2.0, users will be able to create an account and submit sentences!
+#In v2.0, users will be able to create an account and submit sentences! Also, stay tuned for Raphael.js and Angular.js!
 
 #Technologies Used:
 Javascript, 
@@ -17,10 +17,10 @@ HTML,
 CSS, 
 jQuery, 
 Express, 
-Mongo.DB (nothing posting to it yet), 
+Mongo.DB,  
 Node.js, 
 Bitballoon.com (before I launched it with Express and Node.js), 
-Almost got it deployed on Heroku…but failed, 
+Heroku(almost), 
 Trello, 
 Git and GitHub, 
 Font Awesome (icons), 
@@ -44,4 +44,4 @@ https://trello.com/b/1dKJyrEd/austin-ipsum
 
 
 #Process: 
-I originally created this as a static site with just JS, HTML, and CSS. Then, I created an Express app and connected it to MongoDB with the intention of allowing users to create accounts and contribute sentences. I’m almost there, just need to fix up some routes and I think some requirements? Possibly environment variables? Possibly Mongoose?  I'll get there!
+I originally created this as a static site with just JS, HTML, and CSS. Then, I created a Node.js Express app and connected it to MongoDB with the intention of allowing users to create accounts and contribute sentences. I’m almost there, just need to fix up some routes and I think some requirements? Possibly environment variables? Possibly Mongoose?  I'll get there!
