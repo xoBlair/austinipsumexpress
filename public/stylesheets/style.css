@@ -136,14 +136,16 @@ footer {
 	float: right;
 	padding-top: 30px;
 	padding-bottom: 30px;
+	color: white;
 }
 
 #love {
 	text-align: center;
 	font-family: 'Quicksand', sans-serif;
-	font-size: 12px;
+	font-size: 14px;
     text-decoration: none; 
-    color: black;
+    color: white;
+
 }
 
 .fa-heart {
@@ -151,6 +153,11 @@ footer {
 }
 
 #hits {
-	font-family: 'Hind Siliguri', sans-serif;
-	font-size: 12px;
+	font-family: 'Quicksand', sans-serif;
+	font-size: 14px;
+	color: white;
+}
+
+a, a:visited {
+    color: inherit;
 }
