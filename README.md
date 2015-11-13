@@ -1,6 +1,6 @@
 #austin ipsum
 
-Did you recently move back to Brooklyn? Good. Miss Austin much? Aww, sorry, not sorry. 
+Did you recently move back to Brooklyn? Miss Austin much?
 If you need some filler text or just wanna get weird, Austin Ipsum is the app for YOU! Better than boring old Latin! Better than Hipsum! Austin Ipsum even serves up the weather, do512 tweets, and a SXSW countdown.
 
 #Instructions: 
