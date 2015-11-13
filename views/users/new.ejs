@@ -1,14 +1,27 @@
-<!-- /views/users/new.ejs -->
+
 <% include ../partials/header %>
-
-<form name="new_user_form" id="new_user_form" method="post" action="/users">
-    <div>
-        Name: <input type="text" name="name" id="name">
+  <div id="page-wrap">
+    <div id="top" style="height: 35px; width: 1000px;">
     </div>
-    <div>
-        add a weird sentence: <input type="text" name="favorite" id="favorite">
-    </div>
-    <input type="submit" value="Save">
-</form>
-
-<% include ../partials/footer %>
+        <div id="titleBox">
+          <div id="logo"><a href= "/"> <img src="/images/austinipsum-logosmaller.png" width="300" height="130"> </a>
+          </div>
+        </div>
+		      <div id="selections" style="height: 80px; width: 1000px;">
+		      	<form name="new_user_form" id="new_user_form" method="post" action="/users">
+				    <div>
+				    what's your name? <input type="text" name="name" id="name">
+				    </div>
+					    <div>
+					    add a weird sentence: <input type="text" name="favorite" id="favorite">
+					    </div>
+				    		<input type="submit" value="Save">
+				</form>
+	<% include ../partials/footer %>
+		<div id="textBox" style="height: 35px; width: 1000px;">
+		</div>
+			<div id="widgets" style="height: 19px; width: 1000px;">
+			</div>
+				<div id="lastRow" style="height: 55px; width: 1000px;">
+				</div>
+</div>

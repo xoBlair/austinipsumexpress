@@ -8,9 +8,6 @@ footer {
     color: gray;
 }
 
-
-
-
 #page-wrap {
      width: 1000px;
      margin: 0 auto;
@@ -19,10 +16,10 @@ footer {
 #top {
 	font-weight: 500px;
 	width: 1000px;
-	height: 75px;
+	height: 35px;
 	background: #3dc60d;
     text-align: center;
-    font-family: 'Quicksand', sans-serif;
+    font-family: 'Open Sans', sans-serif;
     display: block;
 }
 
@@ -31,10 +28,10 @@ footer {
 	font-size: 28px;
 	font-weight: 500px;
 	background: #90d129;
-	height: 145px;
+	height: 130px;
 	color: black;
 	text-align: center;
-	font-family: 'Quicksand', sans-serif;
+	font-family: 'Open Sans', sans-serif;
 }
 
 /*320x150*/
@@ -52,10 +49,10 @@ footer {
     background: #bbf10e;
     font-weight: 400;
 	font-size: large;
-	font-family: 'Quicksand', sans-serif;
+	font-family: 'Open Sans', sans-serif;
 	color: black;
 	width: 1000px;
-	height: 175px;
+	height: 160px;
 	text-align: center;
 
 }
@@ -86,15 +83,15 @@ footer {
 
 #textBox {
 	width: 1000px;
-	height: 200px;
+	height: 165px;
 	background: #d7de1e;
 	margin: 0 auto;
 	overflow: auto;
 }
 
 #paragraph {
-	font-size: 18px;
-	font-family: 'Hind Siliguri', sans-serif;
+	font-size: 16px;
+	font-family: 'Open Sans', sans-serif;
 	color: black;
 	text-align: center;
 }
@@ -104,7 +101,7 @@ footer {
 
 #widgets {
 	width: 1000px;
-	height: 300px;
+	height: 275px;
 	background: #fac309;
 }
 
@@ -116,8 +113,6 @@ footer {
 
 .twitter-timeline {
 	float: center;
-	padding-top: 30px;
-	padding-bottom: 30px;
 }
 
 
@@ -126,7 +121,7 @@ footer {
 #lastRow {
 	background: #fdb06c;
 	width: 1000px;
-	height: 75px;
+	height: 60px;
 }
 
 
@@ -136,6 +131,7 @@ footer {
 	float: right;
 	padding-top: 30px;
 	padding-bottom: 30px;
+	padding-right: 10px;
 	color: white;
 }
 
